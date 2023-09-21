@@ -1,8 +1,8 @@
 
-![Alt Text for the GIF](https://github.com/prathu1812/nelder_mead_simplex_search/blob/main/Simplex%20Search/nelder_mead_visualization.gif)
+![Nelder-Mead Simplex Search](https://github.com/prathu1812/nelder_mead_simplex_search/blob/main/Simplex%20Search/nelder_mead_visualization.gif)
 
 =====:Nelder-Mead Simplex Method for Optimization:====
-Overview
+
 The Nelder-Mead method is a direct search optimization technique that approximates the optimum of a function. This repository contains an educational implementation of the method, complete with visualization to aid understanding.
 
 What is the Nelder-Mead Simplex Method?
